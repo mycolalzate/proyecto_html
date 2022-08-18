@@ -1,0 +1,12 @@
+body {
+    margin: 0 auto;
+    border: solid red 1px;
+    width: 960px;
+}
+
+h1 {
+    font-size: 26px;
+    font-style: sans-serif;
+    text-transform: uppercase;
+    color: #1098ad;
+}
